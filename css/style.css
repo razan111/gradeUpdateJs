@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#display{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    background-color: lightcoral;
+}
+
+table, th, td{
+    border: 1px solid tomato;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+
+#container{
+ text-align: center;  
+ margin-top: 50px;
+ 
+}
+#container div{
+    margin-bottom: 20px;
+}
+.input{
+    font-size: 25px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid tomato;
+}
+#entry{
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+}
